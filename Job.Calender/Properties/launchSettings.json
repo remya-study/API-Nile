@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Job.Calender": {
+      "commandName": "Project",
+      "commandLineArgs": "GetOutLookCalender"
+    }
+  }
+}
